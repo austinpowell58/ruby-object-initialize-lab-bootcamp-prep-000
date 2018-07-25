@@ -1,2 +1,2 @@
 class Dog 
-  def i
+  def initialize(name)
